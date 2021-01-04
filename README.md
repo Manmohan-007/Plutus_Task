@@ -1,1 +1,3 @@
-## Live preview : https://mentorskool-admin-platform.web.app/
+## Creds - 
+ email : eve.holt@reqres.in , 
+ password : cityslicka
